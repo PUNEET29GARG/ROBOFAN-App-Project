@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+}
+.roboCard {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-content: space-around;
+}
+.productCard {
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid chocolate;
+  border-radius: 5px;
+  background-color: darkcyan;
+}
